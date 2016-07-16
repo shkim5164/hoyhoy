@@ -7,6 +7,9 @@ class HomesController < ApplicationController
     @homes = Home.all
   end
 
+  def kimchi
+
+  end
   # GET /homes/1
   # GET /homes/1.json
   def show
