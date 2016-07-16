@@ -9,6 +9,10 @@ class HomesController < ApplicationController
   def galbi
 
   end
+  def kimchi
+
+
+  end
   # GET /homes/1
   # GET /homes/1.json
   def show
