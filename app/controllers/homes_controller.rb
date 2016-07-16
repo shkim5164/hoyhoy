@@ -6,7 +6,9 @@ class HomesController < ApplicationController
   def index
     @homes = Home.all
   end
+  def galbi
 
+  end
   # GET /homes/1
   # GET /homes/1.json
   def show
